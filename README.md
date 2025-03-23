@@ -1,16 +1,18 @@
-## Hi there 👋
+## 👋 ¡Hola! Soy Julio
 
-<!--
-**JulioXCode/JulioXCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Piscinero en 42 Madrid, explorando el mundo de la programación.  
+💻 Apasionado por la tecnología y siempre en busca de nuevos retos.  
+🎯 Codificando ideas y construyendo soluciones mientras aprendo.  
 
-Here are some ideas to get you started:
+### 🌱 Actualmente aprendiendo
+- Fundamentos de programación
+- Desarrollo web (HTML, CSS, etc.)
+- Colaboración en entornos tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 ¿Cómo contactarme?
+- [Twitter](https://twitter.com/JulioXCode)  
+- [Instagram](https://instagram.com/JulioXCode)  
+- [LinkedIn](https://linkedin.com/in/tu-perfil)  
+
+### ⚡ Dato curioso
+¡Siempre he creído que la mejor manera de aprender es compartiendo y experimentando! 🚀
